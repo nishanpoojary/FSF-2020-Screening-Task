@@ -1,4 +1,4 @@
-# fsf_2020_screening_task: Create Lecture Notes and Animations
+# FSF-2020-screening-task: Create Lecture Notes and Animations
 
 During the course of this internship, we will be creating lecture notes along with their corresponding animations. The screening task has been divided in two parts.
 
